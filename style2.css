@@ -1,0 +1,76 @@
+/* myStyle.css */
+body {
+ background-color: lightyellow; width: 700px; margin: auto; 
+}
+h1 {
+font-family: ; 
+ color: darkred;
+ text-align: center;
+ font-size: 40px;
+}
+p { 
+font-style: italic; 
+color: black;
+text-align: center;
+font-size: 18px;
+}
+h2 {
+font-family: rockwell; 
+ color: darkred;
+ text-align: center;
+ font-size: 26px;
+}
+p { 
+font-family: rockwell; 
+color: black;
+text-align: center;
+font-size: 18px;
+}
+h3 {
+font-family: rockwell; 
+ color: darkred;
+ text-align: center;
+ font-size: 26px;
+ }
+ p { 
+ font-family: rockwell; 
+color: black;
+text-align: center;
+font-size: 18px;
+}
+h4 {
+font-family: rockwell; 
+ color: darkred;
+ text-align: center;
+ font-size: 26px;
+ }
+ p { 
+ font-family: rockwell; 
+color: white;
+text-align: center;
+font-size: 18px;
+}
+ h5 {
+ font-family: rockwell; 
+ color: darkred;
+ text-align: center;
+ font-size: 26px;
+ }
+ p { 
+ font-family: rockwell; 
+color: black;
+text-align: center;
+font-size: 18px;
+}
+ h6 {
+ font-family: rockwell; 
+ color: darkred;
+ text-align: center;
+ font-size: 26px;
+ }
+  p { 
+  font-family: rockwell; 
+color: black;
+text-align: center;
+font-size: 18px;
+}
